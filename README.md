@@ -1,0 +1,4 @@
+- 👋 Olá meu nome é @Srallanzin
+- 👍 Meu gmail é estudante.alura@gmail.com.br
+- 🌱 Eu estou interresado em programar e aprender novas linguagens
+- 💞️ Estou aprendendo a programar recentemente JavaScript e Scratch
